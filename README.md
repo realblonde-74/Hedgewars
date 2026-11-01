@@ -220,4 +220,4 @@ Hedgewars is available as a full free version with all features included and reg
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-01 15:41:00 UTC
+**Last updated:** 2026-11-01 20:03:57 UTC
